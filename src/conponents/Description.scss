@@ -1,0 +1,22 @@
+@import '../styles/variables.scss';
+
+#description img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -65px;
+    margin-left: -65px;
+    position: relative;
+    left: 50%;
+}
+
+#description h1 {
+    margin: $base-margin 0;
+    text-align: center;
+}
+
+#description h2 {
+    margin: 20px 0;
+    text-align: center;
+}
