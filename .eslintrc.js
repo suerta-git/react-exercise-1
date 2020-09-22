@@ -29,5 +29,6 @@ module.exports = {
   ignorePatterns: ['node_modules/'],
   rules: {
     'prettier/prettier': 'error',
+    "react/prop-types": 'warn',
   },
 };
