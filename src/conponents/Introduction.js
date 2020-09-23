@@ -12,12 +12,7 @@ const Introduction = () => (
       commodo consequat.
     </p>
     <h3>EDUCATION</h3>
-    <Educations
-      time="1990"
-      description="I was born in Katowice"
-      details="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua."
-    />
+    <Educations />
   </div>
 );
 
